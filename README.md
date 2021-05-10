@@ -1,0 +1,2 @@
+# navigation_neotic
+古月老师在neotic下可用的代码修改。主要修改为mbot_description
